@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yigit Koray Babal",
+    "section": "",
+    "text": "I am a postdoctoral researcher at Karolinska Institutet focusing on the developmentand use of computational approaches in the neurobiology field. My research focus is gene regulation of nervous system development and neurodegenerativediseases especially using evolutionary aspects. To understand nervous system, Imainly use multi-omic data analysis techniques such as scRNAseq, scATACseq,and ChIPseq by extensively usage of Linux (HPC clusters and bash scripting), R,and Python. I am also Linux enthusiastic and interested in web development. Onthe other hands, I am also interested in philosophy of science."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Yigit Koray Babal",
+    "section": "",
+    "text": "I am a postdoctoral researcher at Karolinska Institutet focusing on the developmentand use of computational approaches in the neurobiology field. My research focus is gene regulation of nervous system development and neurodegenerativediseases especially using evolutionary aspects. To understand nervous system, Imainly use multi-omic data analysis techniques such as scRNAseq, scATACseq,and ChIPseq by extensively usage of Linux (HPC clusters and bash scripting), R,and Python. I am also Linux enthusiastic and interested in web development. Onthe other hands, I am also interested in philosophy of science."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yigit Koray Babal",
+    "section": "Education",
+    "text": "Education\n\nPhD in Biotechnology (2018-2023) | Gebze Tecnical University - Kocaeli, Turkey\nMSc in Molecular Biology and Genetics (2016-2018) | Gebze Tecnical University - Kocaeli, Turkey\nBSc in Biology (2012-2016) | Marmara University - Istanbul, Turkey"
+  },
+  {
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
+    "title": "Yigit Koray Babal",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nPostdoctoral Researcher (2023-Present) | Karolinska Institutet - Stockholm, Sweden\n\nSingle cell multi omic data analysis of brainvascular cell interaction inALS and MS patient samples.\nMulti-species comparison of neuro-regeneration\n\nGuest Researcher (2021-2022) | Max Planck Institute of Biological Intelligence - Munich, Germany\n\nSingle cell multi omic data analysis (scRNAseq, scATACseq, ChIPseq)of inhibitory neuron development including trajectory analysis and generegulatory network inference, motif enrichment and gene oscillatorynetwork analysis.\nSingle cell transcriptomic analysis of embryonic development of cortexwith pertubation studies\nScientific maintenance of Linux-based workstation and HPC clustersincluding reproducible scripting, R and CLI package/tool maintenance\n\nResearch Assistant (2019-2023) | Gebze Technical University - Kocaeli, Turkey\n\nSingle cell transcriptomic and genomic analyses of nervous systemdevelopment and gene regulation during neurogenesis\nTranscriptomic analysis of neurogenesis and brain tumors and analysisof gene regulatory network\nQuantitative kinetic modelling of intra-familial regulation of specifictranscription factor family.\nMolecular investigation of brain tumor cell culture models."
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Yigit Koray Babal",
+    "section": "",
+    "text": "1. Babal, Y.K., Kandemir, B., and Kurnaz, I.A. (2021). Gene regulatory network of ETS domain transcription factors in different stages of glioma. Journal of Personalized Medicine 11, 138.\n\n\n2. Yurduseven, K., Babal, Y.K., Celik, E., Kerman, B.E., and Kurnaz, I.A. (2022). Multiple sclerosis biomarker candidates revealed by cell-type-specific interactome analysis. Omics: a journal of integrative biology 26, 305–317.\n\n\n3. Babal, Y.K., Sonmez, E., and Kurnaz, I.A. (2023). Nervous system-related gene regulatory networks and functional evolution of ETS proteins across species. Biosystems 227, 104891.\n\n\n4. Del-Valle-Anton, L., Amin, S., Cimino, D., Neuhaus, F., Dvoretskova, E., Fernández, V., Babal, Y.K., Garcia-Frigola, C., Prieto-Colomina, A., Murcia-Ramón, R., et al. (2024). Multiple parallel cell lineages in the developing mammalian cerebral cortex. Science Advances 10, eadn9998.\n\n\n5. Uyar, O.A., Babal, Y.K., Yılmaz, B., and Kurnaz, I.A. (2024). Mitotic kinases aurora-a, Plk1, and Cdk1 interact with elk-1 transcription factor through the n-terminal domain. International Journal of Cell Biology 2024, 6798897."
+  },
+  {
+    "objectID": "publication.html#publications",
+    "href": "publication.html#publications",
+    "title": "Yigit Koray Babal",
+    "section": "",
+    "text": "1. Babal, Y.K., Kandemir, B., and Kurnaz, I.A. (2021). Gene regulatory network of ETS domain transcription factors in different stages of glioma. Journal of Personalized Medicine 11, 138.\n\n\n2. Yurduseven, K., Babal, Y.K., Celik, E., Kerman, B.E., and Kurnaz, I.A. (2022). Multiple sclerosis biomarker candidates revealed by cell-type-specific interactome analysis. Omics: a journal of integrative biology 26, 305–317.\n\n\n3. Babal, Y.K., Sonmez, E., and Kurnaz, I.A. (2023). Nervous system-related gene regulatory networks and functional evolution of ETS proteins across species. Biosystems 227, 104891.\n\n\n4. Del-Valle-Anton, L., Amin, S., Cimino, D., Neuhaus, F., Dvoretskova, E., Fernández, V., Babal, Y.K., Garcia-Frigola, C., Prieto-Colomina, A., Murcia-Ramón, R., et al. (2024). Multiple parallel cell lineages in the developing mammalian cerebral cortex. Science Advances 10, eadn9998.\n\n\n5. Uyar, O.A., Babal, Y.K., Yılmaz, B., and Kurnaz, I.A. (2024). Mitotic kinases aurora-a, Plk1, and Cdk1 interact with elk-1 transcription factor through the n-terminal domain. International Journal of Cell Biology 2024, 6798897."
+  }
+]

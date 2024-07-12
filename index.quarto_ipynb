@@ -1,0 +1,60 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Yigit Koray Babal\"\n",
+        "about:\n",
+        "  template: trestles\n",
+        "  image: YKB.JPG\n",
+        "  links:\n",
+        "    - icon: twitter\n",
+        "      text: twitter\n",
+        "      href: https://x.com/BabalKoray\n",
+        "    - icon: github\n",
+        "      text: Github\n",
+        "      href: https://github.com/yigitbabal\n",
+        "    - icon: linkedin\n",
+        "      text: Linkedin\n",
+        "      href: https://www.linkedin.com/in/yigitbabal/\n",
+        "    - icon: \"{{< iconify fa6-regular heart >}}\"\n",
+        "      text: \"{{< iconify academicons orcid-square size=2x >}} ORCiD\"\n",
+        "      href: https://orcid.org/0000-0001-9954-4435\n",
+        "---\n",
+        "\n",
+        "```{css, echo = FALSE}\n",
+        ".justify {\n",
+        "  text-align: justify !important\n",
+        "}\n",
+        "```\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "## About me\n",
+        "\n",
+        "::: {.justify}\n",
+        "I am a postdoctoral researcher at Karolinska Institutet focusing on the developmentand use of computational approaches in the neurobiology field. My research focus is gene regulation of nervous system development and neurodegenerativediseases especially using evolutionary aspects. To understand nervous system, Imainly use multi-omic data analysis techniques such as scRNAseq, scATACseq,and ChIPseq by extensively usage of Linux (HPC clusters and bash scripting), R,and Python. I am also Linux enthusiastic and interested in web development. Onthe other hands, I am also interested in philosophy of science.\n",
+        ":::\n",
+        "\n",
+        "## Education\n",
+        "\n",
+        "- PhD in Biotechnology (2018-2023) | **Gebze Tecnical University** - Kocaeli Turkey\n",
+        "- MSc in Molecular Biology and Genetics (2016-2018) | **Gebze Tecnical University** - Kocaeli Turkey"
+      ],
+      "id": "d16b08d6"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

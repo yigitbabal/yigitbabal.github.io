@@ -1,0 +1,50 @@
+---
+title: "Yigit Koray Babal"
+subtitle: |
+  | Postdoctoral Researcher
+  | Karolinska Institutet - Stockholm, Sweden
+  | yigit.koray.babal@ki.se
+about:
+  template: trestles
+  image: YKB.JPG
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://x.com/BabalKoray
+    - icon: github
+      text: Github
+      href: https://github.com/yigitbabal
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/yigitbabal/
+    - icon: "{{< iconify academicons orcid-square size=2x >}}"
+      text: "{{< iconify academicons orcid-square size=2x >}} ORCiD"
+      href: https://orcid.org/0000-0001-9954-4435
+
+---
+
+## About me
+
+I am a postdoctoral researcher at Karolinska Institutet focusing on the developmentand use of computational approaches in the neurobiology field. My research focus is gene regulation of nervous system development and neurodegenerativediseases especially using evolutionary aspects. To understand nervous system, Imainly use multi-omic data analysis techniques such as scRNAseq, scATACseq,and ChIPseq by extensively usage of Linux (HPC clusters and bash scripting), R,and Python. I am also Linux enthusiastic and interested in web development. Onthe other hands, I am also interested in philosophy of science.
+
+
+## Education
+
+- PhD in Biotechnology (2018-2023) | **Gebze Tecnical University** - Kocaeli, Turkey
+- MSc in Molecular Biology and Genetics (2016-2018) | **Gebze Tecnical University** - Kocaeli, Turkey
+- BSc in Biology (2012-2016) | **Marmara University** - Istanbul, Turkey
+
+## Research Experience
+
+- Postdoctoral Researcher (2023-Present) | **Karolinska Institutet** - Stockholm, Sweden
+  - Single cell multi omic data analysis of brainvascular cell interaction inALS and MS patient samples.
+  - Multi-species comparison of neuro-regeneration
+- Guest Researcher (2021-2022) | **Max Planck Institute of Biological Intelligence** - Munich, Germany
+  - Single cell multi omic data analysis (scRNAseq, scATACseq, ChIPseq)of inhibitory neuron development including trajectory analysis and generegulatory network inference, motif enrichment and gene oscillatorynetwork analysis.
+  - Single cell transcriptomic analysis of embryonic development of cortexwith pertubation studies
+  - Scientific maintenance of Linux-based workstation and HPC clustersincluding reproducible scripting, R and CLI package/tool maintenance
+- Research Assistant (2019-2023) | **Gebze Technical University** - Kocaeli, Turkey
+  - Single cell transcriptomic and genomic analyses of nervous systemdevelopment and gene regulation during neurogenesis
+  - Transcriptomic analysis of neurogenesis and brain tumors and analysisof gene regulatory network
+  - Quantitative kinetic modelling of intra-familial regulation of specifictranscription factor family.
+  - Molecular investigation of brain tumor cell culture models.

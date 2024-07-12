@@ -1,0 +1,32 @@
+---
+title: "Yigit Koray Babal"
+subtitle: |
+  | Postdoctoral Researcher
+  | Karolinska Institutet - Stockholm, Sweden
+  | yigit.koray.babal@ki.se
+bibliography: publications.bib
+csl: cell.csl
+nocite: |
+  @*
+about:
+  template: trestles
+  image: YKB.JPG
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://x.com/BabalKoray
+    - icon: github
+      text: Github
+      href: https://github.com/yigitbabal
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/yigitbabal/
+    - icon: "{{< iconify fa6-regular heart >}}"
+      text: "{{< iconify academicons orcid-square size=2x >}} ORCiD"
+      href: https://orcid.org/0000-0001-9954-4435
+---
+
+## Publications
+
+::: {#refs}
+:::
