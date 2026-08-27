@@ -1,0 +1,57 @@
+---
+title: "Yigit Koray Babal"
+subtitle: |
+  | Postdoctoral Researcher, Computational Biology
+  | University of Helsinki - Helsinki, Finland
+  | yigit.babal@helsinki.fi
+about:
+  template: trestles
+  image: YKB.JPG
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/yigitbabal
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/yigitbabal/
+    - icon: "{{< iconify fa6-regular heart >}}"
+      text: "{{< iconify academicons orcid-square size=2x >}} ORCiD"
+      href: https://orcid.org/0000-0001-9954-4435
+---
+
+## Research
+
+### Stoichiometric transcription factor partnerships specify GABAergic neuron subtype identity
+**Dvoretskova, E., Lynch, C., Bright, A.R., Babal, Y.K., Isaev, S., Kharchenko, P., Adameyko, I., & Mayer, C. (2026).** *bioRxiv* (preprint). [DOI: 10.64898/2026.05.25.727662](https://doi.org/10.64898/2026.05.25.727662)
+
+Using in vivo CRISPR perturbation, lineage barcoding, and single-cell transcriptomics in the developing mouse basal ganglia, we found that loss of the transcription factor Sp9 shifts progenitor fate from D2 toward D1 medium spiny neurons and intercalated cells. We further showed that SP9 activates genes directly at GC-rich promoters but represses them indirectly at distal enhancers by partnering with DLX factors and the NuRD corepressor complex — with the relative abundance of SP9 versus DLX determining which mode dominates, extending the combinatorial transcription-factor code to include factor stoichiometry.
+
+### Mammalian Models of Adult Tissue Regeneration
+**Liao, K., Babal, Y.K., & Lewandowski, S.A. (2026).** *Annual Review of Animal Biosciences*, 14, 297–317. [DOI: 10.1146/annurev-animal-030424-071428](https://doi.org/10.1146/annurev-animal-030424-071428)
+
+A review of the rare mammalian species capable of regenerating adult tissue with minimal scarring — such as antler regrowth in deer, skin regeneration in bats, and systemically reduced scarring in African spiny mice — summarizing the proposed cellular mechanisms behind these adaptations and their implications for future regenerative therapies.
+
+### Mitotic Kinases Aurora-A, Plk1, and Cdk1 Interact with Elk-1 Transcription Factor through the N-Terminal Domain
+**Uyar, O.A., Babal, Y.K., Yilmaz, B., & Kurnaz, I.A. (2024).** *International Journal of Cell Biology*, 2024, 6798897. [DOI: 10.1155/2024/6798897](https://doi.org/10.1155/2024/6798897)
+
+We showed that the transcription factor Elk-1 interacts with the mitotic kinases Aurora-A, Plk1, and Cdk1 through its N-terminal domain, mapped candidate phosphorylation sites, and confirmed kinase activity on Elk-1 peptides in vitro — proposing this interaction as a potential target for anticancer therapies.
+
+### Multiple parallel cell lineages in the developing mammalian cerebral cortex
+**Del-Valle-Anton, L., Amin, S., Cimino, D., Neuhaus, F., Dvoretskova, E., Fernandez, V., Babal, Y.K., Garcia-Frigola, C., Prieto-Colomina, A., Murcia-Ramon, R., et al. (2024).** *Science Advances*, 10(13), eadn9998. [DOI: 10.1126/sciadv.adn9998](https://doi.org/10.1126/sciadv.adn9998)
+
+Single-cell RNA sequencing combined with lineage barcoding of ferret cortical germinal zones revealed multiple radial glia progenitor classes that follow parallel differentiation trajectories converging on a common class of newborn neuron. This lineage multiplicity was conserved between ferret and human but absent in mouse, suggesting it underlies cortical expansion and folding in species with larger, gyrified brains.
+
+### Nervous system-related gene regulatory networks and functional evolution of ETS proteins across species
+**Babal, Y.K., Sonmez, E., & Kurnaz, I.A. (2023).** *Biosystems*, 227, 104891. [DOI: 10.1016/j.biosystems.2023.104891](https://doi.org/10.1016/j.biosystems.2023.104891)
+
+A comparative transcriptomics and gene regulatory network study across human, gorilla, mouse, fruit fly, and worm examining how ETS-family transcription factors regulate neuronal differentiation. The regulatory role of ETS proteins in nervous system development proved broadly conserved across species, with the ETS, PEA3, and ELF subfamilies most active in transcriptional regulation of neuronal differentiation.
+
+### Multiple sclerosis biomarker candidates revealed by cell-type-specific interactome analysis
+**Yurduseven, K., Babal, Y.K., Celik, E., Kerman, B.E., & Kurnaz, I.A. (2022).** *OMICS: A Journal of Integrative Biology*, 26(5), 305–317. [DOI: 10.1089/omi.2022.0023](https://doi.org/10.1089/omi.2022.0023)
+
+We performed cell-type-specific interactome analysis of multiple sclerosis transcriptomic datasets, mapping protein interaction networks separately in white and gray matter and identifying hub proteins (including APP, EGLN3, PTEN, and LRRK2) that appear central to disease mechanisms. Comparing brain and peripheral blood expression further nominated biomarker candidates such as NRGN, CRTC1, CDC42, and IFITM3 for MS diagnostics.
+
+### Gene regulatory network of ETS domain transcription factors in different stages of glioma
+**Babal, Y.K., Kandemir, B., & Kurnaz, I.A. (2021).** *Journal of Personalized Medicine*, 11(2), 138. [DOI: 10.3390/jpm11020138](https://doi.org/10.3390/jpm11020138)
+
+Analyzing microarray expression data from glioma patients across tumor grades, we identified ETS-family transcription factors (ETV1, ELK3, ETV4, ELF4, and ETV6) as candidate biomarkers for grade classification, and reconstructed their gene regulatory networks — comparing them against networks from ETS-overexpressing neuroblastoma cell lines to reveal both shared and tumor-specific regulatory relationships.

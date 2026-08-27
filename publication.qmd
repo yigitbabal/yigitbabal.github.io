@@ -1,9 +1,9 @@
 ---
 title: "Yigit Koray Babal"
 subtitle: |
-  | Postdoctoral Researcher
-  | Karolinska Institutet - Stockholm, Sweden
-  | yigit.koray.babal@ki.se
+  | Postdoctoral Researcher, Computational Biology
+  | University of Helsinki - Helsinki, Finland
+  | yigit.babal@helsinki.fi
 bibliography: publications.bib
 csl: cell.csl
 nocite: |
@@ -12,9 +12,6 @@ about:
   template: trestles
   image: YKB.JPG
   links:
-    - icon: twitter
-      text: twitter
-      href: https://x.com/BabalKoray
     - icon: github
       text: Github
       href: https://github.com/yigitbabal

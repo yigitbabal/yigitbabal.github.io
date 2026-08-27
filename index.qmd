@@ -1,16 +1,13 @@
 ---
 title: "Yigit Koray Babal"
 subtitle: |
-  | Postdoctoral Researcher
-  | Karolinska Institutet - Stockholm, Sweden
-  | yigit.koray.babal@ki.se
+  | Postdoctoral Researcher, Computational Biology
+  | University of Helsinki - Helsinki, Finland
+  | yigit.babal@helsinki.fi
 about:
   template: trestles
   image: YKB.JPG
   links:
-    - icon: twitter
-      text: twitter
-      href: https://x.com/BabalKoray
     - icon: github
       text: Github
       href: https://github.com/yigitbabal
@@ -25,26 +22,35 @@ about:
 
 ## About me
 
-I am a postdoctoral researcher at Karolinska Institutet focusing on the developmentand use of computational approaches in the neurobiology field. My research focus is gene regulation of nervous system development and neurodegenerativediseases especially using evolutionary aspects. To understand nervous system, Imainly use multi-omic data analysis techniques such as scRNAseq, scATACseq,and ChIPseq by extensively usage of Linux (HPC clusters and bash scripting), R,and Python. I am also Linux enthusiastic and interested in web development. Onthe other hands, I am also interested in philosophy of science.
+Computational biologist with a decade of experience (since graduate research in 2016) turning large-scale, multimodal, high-dimensional biological data into statistically validated, actionable results, most recently across single-cell multi-omics, immune repertoire, and proteomics datasets in a neuroimmunology research field. Proficient in Python, R and SQL, with deep hands-on experience in distributed/HPC servers, containerized pipelines, and machine-learning-based analysis. Alongside the analysis work, I've independently built and administered the Linux server infrastructure behind it, from HPC/Slurm setup to multi-user services and clinical data governance.
 
+## Skills
+
+- **Programming & data:** Python, R, SQL, Git/GitHub, Bash
+- **Statistics & machine learning:** hypothesis testing and statistical modeling, ML-based clustering and classification, trajectory/pseudotime (time-series-style) inference, network inference algorithms, simulation and quantitative modeling
+- **Multimodal data integration:** combining heterogeneous, high-dimensional data streams (transcriptomic, epigenomic, proteomic, immune-receptor) into integrative analyses
+- **Systems & infrastructure:** 10 years as a Linux user; independently set up and administered a dedicated group server (full OS-admin rights): Slurm scheduling, conda/container environment management (Docker/Singularity), multi-user services (RStudio Server, Jupyter Notebook), and data storage/backup policy, including encryption and governance for clinical data
+- **Reporting & tools:** HTML/CSS, Shiny applications for interactive data reporting
 
 ## Education
 
-- PhD in Biotechnology (2018-2023) | **Gebze Tecnical University** - Kocaeli, Turkey
-- MSc in Molecular Biology and Genetics (2016-2018) | **Gebze Tecnical University** - Kocaeli, Turkey
+- PhD in Biotechnology (2018-2023) | **Gebze Technical University** - Kocaeli, Turkey
+- MSc in Molecular Biology and Genetics (2016-2018) | **Gebze Technical University** - Kocaeli, Turkey
 - BSc in Biology (2012-2016) | **Marmara University** - Istanbul, Turkey
 
 ## Research Experience
 
-- Postdoctoral Researcher (2023-Present) | **Karolinska Institutet** - Stockholm, Sweden
-  - Single cell multi omic data analysis of brainvascular cell interaction inALS and MS patient samples.
-  - Multi-species comparison of neuro-regeneration
+- Postdoctoral Researcher (2025-Present) | **University of Helsinki** - Helsinki, Finland
+  - Built statistical and machine-learning pipelines to profile immune cell populations from multimodal single-cell data, tracking how disease-modifying therapies shift cellular-level readouts over time in MS patients.
+  - Own data management strategy for sensitive clinical research data (encryption, storage policy) and manage HPC project resources: user and data allocation, pipeline development, and containerization.
+- Postdoctoral Researcher (2023-2025) | **Karolinska Institutet** - Stockholm, Sweden
+  - Modeled cell-cell interaction signals from multi-omic data to characterize brain-vascular changes in ALS and MS, integrating results across species for comparative analysis.
+  - Set up and administered the group's dedicated Linux server end-to-end (full OS-admin rights): configured Slurm job scheduling, deployed and maintained multi-user RStudio Server and Jupyter Notebook environments, and owned data storage and backup strategy.
 - Guest Researcher (2021-2022) | **Max Planck Institute of Biological Intelligence** - Munich, Germany
-  - Single cell multi omic data analysis (scRNAseq, scATACseq, ChIPseq)of inhibitory neuron development including trajectory analysis and generegulatory network inference, motif enrichment and gene oscillatorynetwork analysis.
-  - Single cell transcriptomic analysis of embryonic development of cortexwith pertubation studies
-  - Scientific maintenance of Linux-based workstation and HPC clustersincluding reproducible scripting, R and CLI package/tool maintenance
+  - Ran trajectory and network-inference analyses on multimodal single-cell data (transcriptomic + epigenomic) to model neuron development, including motif enrichment and gene-oscillatory-network analysis.
+  - Developed a Python tool implementing a lineage-tracing algorithm for single-cell DNA barcoding data.
+  - Maintained Linux workstations and HPC cluster infrastructure for the group: built reproducible conda environments and Docker/Singularity containers for other researchers' analysis workflows, with ongoing R/CLI tool maintenance.
 - Research Assistant (2019-2023) | **Gebze Technical University** - Kocaeli, Turkey
-  - Single cell transcriptomic and genomic analyses of nervous systemdevelopment and gene regulation during neurogenesis
-  - Transcriptomic analysis of neurogenesis and brain tumors and analysisof gene regulatory network
-  - Quantitative kinetic modelling of intra-familial regulation of specifictranscription factor family.
-  - Molecular investigation of brain tumor cell culture models.
+  - Performed transcriptomic and genomic analyses of nervous system development and gene regulation, including gene regulatory network inference.
+  - Built quantitative kinetic models of transcription-factor regulation, and ran cell-culture-based validation experiments.
+  - Maintained the department's website (announcements, exam results) as governmental university staff, hand-coding HTML/CSS where the built-in CMS fell short.
